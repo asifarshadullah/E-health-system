@@ -1,0 +1,65 @@
+.loginslot {
+  width: 30%;
+  padding-top: 7em;
+  /*padding-right: 5em;
+  padding-left: 5em;
+  padding-top: 1em;
+  padding-bottom: 1em;*/
+  display: inline-block;
+  background-color: ;
+  margin-top: 15em;
+  margin-bottom: 5em;
+  margin-left: 28em;
+  text-align: center;
+  background-image: linear-gradient(to bottom right, darkcyan, lightseagreen);
+  border: solid;
+  border-color: darkcyan;
+
+}
+
+/*.loginform input[type="email"]{
+  width: 35%;
+  padding: .5em;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  margin: .40em;
+}*/
+
+.email {
+  width: 70%;
+  margin-top: 5em;
+  padding: .5em;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  margin: .40em;
+}
+
+.password {
+  width: 70%;
+  margin-top: 5em;
+  padding: .5em;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  margin: .40em;
+}
+
+.login {
+  width: 40%;
+  padding:8px;
+  font-size: 1.5rem;
+  background-color: yellow;
+  color: black;
+  border-radius: 4em;
+  background-color:indigo;
+  border:indigo;
+  color: yellow;
+  margin-top: .40em;
+  margin-bottom: 2em;
+}
+
+
+.others {
+	color: yellow;
+	margin-bottom: 2em;
+	font-size: 1.5rem;
+}
